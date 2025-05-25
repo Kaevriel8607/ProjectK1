@@ -1,2 +1,2 @@
 # ProjectK1
-Beginner level C and Phyton projects by K.
+Beginner level C and Python projects by K.
